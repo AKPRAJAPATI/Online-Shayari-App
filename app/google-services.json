@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "651563883398",
+    "firebase_url": "https://social-media-shayari-default-rtdb.firebaseio.com",
+    "project_id": "social-media-shayari",
+    "storage_bucket": "social-media-shayari.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:651563883398:android:7b455f7242686c724fea07",
+        "android_client_info": {
+          "package_name": "com.example.socialmediashayariapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "651563883398-qpnl9bkmphgiuk9kefm6tm3b7akcnmj9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCv4IzSeyAozUOf9IzcDvNKh319rJMmzzM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "651563883398-qpnl9bkmphgiuk9kefm6tm3b7akcnmj9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
